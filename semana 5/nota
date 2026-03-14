@@ -1,0 +1,5 @@
+nota=float(input("pedir nota"))
+if nota  >=3.0:
+  print("pasaste la materia")
+else:
+  print("perdiste la meteria")
