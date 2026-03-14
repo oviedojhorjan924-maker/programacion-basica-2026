@@ -1,0 +1,8 @@
+#programa que evalua mas de una condicin 
+semaforo=input("dame el color del semaforo")
+if semaforo=="verde":
+  print("puedes pasar")
+elif semaforo=="rojo":
+  print("detente")
+elif semaforo=="amarillo":
+  print("alerta")
